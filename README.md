@@ -17,8 +17,11 @@ Objetivos do Projeto
 Tarefa 1 - Importar a Base de Dados Classic Car Model
 
 Descarregar o ficheiro mintclassicsDB.sql, que contém o script para criar e povoar a base de dados relacional Mint Classics.
+
 Utilizar a opção "Import from Self-Contained File" na ferramenta de Importação de Dados do MySQL Workbench para criar a base de dados.
+
 O script inclui comandos para criar o schema (mintclassics), bem como as tabelas, chaves primárias e estrangeiras, e os dados.
+
 Após a execução bem-sucedida do script, teremos uma base de dados funcional contendo nove tabelas preenchidas com informações da Mint Classics.
 
 Tarefa 2 - Compreender a Base de Dados Mint Classics e os seus Processos de Negócio
@@ -60,6 +63,7 @@ Armazém D (Sul): Camionetas + Autocarros, Navios, Comboios
 11 camionetas + autocarros, 9 navios, 3 comboios = 23 produtos no total
 
 6. Determinar as linhas de produtos com o maior e o menor número de vendas.
+   
 ✅ Foi executada uma consulta SQL para identificar as linhas de produtos com maior e menor número de vendas.
 
 
