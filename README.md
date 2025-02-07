@@ -8,11 +8,11 @@ Trabalhar neste projeto permitiu-me demonstrar a minha proficiência em SQL e a 
 
 Através desta análise, procurei demonstrar a minha capacidade de tomada de decisões baseadas em dados, contribuindo assim para o aumento da eficiência estratégica e operacional da gestão de inventário.
 
-#Objetivos do Projeto
+**Objetivos do Projeto**
 
-##1. Explorar os produtos atualmente em stock.
-##2. Determinar fatores importantes que possam influenciar a reorganização/redução do inventário.
-##3. Fornecer insights analíticos e recomendações baseadas em dados.
+1. Explorar os produtos atualmente em stock.
+2. Determinar fatores importantes que possam influenciar a reorganização/redução do inventário.
+3. Fornecer insights analíticos e recomendações baseadas em dados.
    
 **Tarefa 1 - Importar a Base de Dados Classic Car Model**
 
