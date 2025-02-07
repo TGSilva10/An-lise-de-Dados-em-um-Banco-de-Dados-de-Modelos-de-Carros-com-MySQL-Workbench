@@ -8,13 +8,13 @@ Trabalhar neste projeto permitiu-me demonstrar a minha proficiência em SQL e a 
 
 Através desta análise, procurei demonstrar a minha capacidade de tomada de decisões baseadas em dados, contribuindo assim para o aumento da eficiência estratégica e operacional da gestão de inventário.
 
-Objetivos do Projeto
+#Objetivos do Projeto
 
-1. Explorar os produtos atualmente em stock.
-2. Determinar fatores importantes que possam influenciar a reorganização/redução do inventário.
-3. Fornecer insights analíticos e recomendações baseadas em dados.
+##1. Explorar os produtos atualmente em stock.
+##2. Determinar fatores importantes que possam influenciar a reorganização/redução do inventário.
+##3. Fornecer insights analíticos e recomendações baseadas em dados.
    
-Tarefa 1 - Importar a Base de Dados Classic Car Model
+**Tarefa 1 - Importar a Base de Dados Classic Car Model**
 
 Descarregar o ficheiro mintclassicsDB.sql, que contém o script para criar e povoar a base de dados relacional Mint Classics.
 
@@ -24,7 +24,7 @@ O script inclui comandos para criar o schema (mintclassics), bem como as tabelas
 
 Após a execução bem-sucedida do script, teremos uma base de dados funcional contendo nove tabelas preenchidas com informações da Mint Classics.
 
-Tarefa 2 - Compreender a Base de Dados Mint Classics e os seus Processos de Negócio
+**Tarefa 2 - Compreender a Base de Dados Mint Classics e os seus Processos de Negócio**
 
 1. Identificar o número total de armazéns e a sua capacidade.
    
@@ -67,7 +67,7 @@ Armazém D (Sul): Camionetas + Autocarros, Navios, Comboios
 ✅ Foi executada uma consulta SQL para identificar as linhas de produtos com maior e menor número de vendas.
 
 
-Tarefa 3 - Investigação de Problemas Empresariais e Identificação das Tabelas Afetadas
+**Tarefa 3 - Investigação de Problemas Empresariais e Identificação das Tabelas Afetadas**
 
 A Mint Classics enfrenta o problema de ter de encerrar um dos seus armazéns.
 Para tomar uma decisão informada, foi necessário determinar quais tabelas eram relevantes e utilizar consultas SQL para obter informações críticas.
@@ -86,7 +86,7 @@ Para tomar uma decisão informada, foi necessário determinar quais tabelas eram
    
 ✅ O objetivo foi obter insights sobre o desempenho do inventário e das vendas de cada linha de produtos.
 
-Tarefa 4 - Recomendação para Consolidação de Armazéns
+**Tarefa 4 - Recomendação para Consolidação de Armazéns**
 
 Após uma análise detalhada, verificou-se que:
 
@@ -96,13 +96,13 @@ Apesar disso, o armazém B tem a maior capacidade de armazenamento, acomodando 3
 
 O armazém C, por outro lado, tem a menor capacidade de armazenamento entre os quatro armazéns e está a operar apenas a 50% da sua capacidade, o que indica desperdício significativo de espaço.
 
-📌 Recomendação:
+**📌 Recomendação:**
 
 ➡️ Encerrar o armazém C e realocar o seu inventário para o armazém B.
 
 💡 Esta consolidação maximiza a utilização do espaço disponível no armazém B e torna a gestão de inventário mais eficiente, ao centralizar categorias de produtos semelhantes num único local.
 
-🔹 Benefícios da Consolidação:
+**🔹 Benefícios da Consolidação:**
 
 ✅ Otimização do Espaço: Ao transferir o stock do armazém C para o B, aproveitamos melhor a capacidade de armazenamento, reduzindo ineficiências operacionais.
 
@@ -110,7 +110,7 @@ O armazém C, por outro lado, tem a menor capacidade de armazenamento entre os q
 
 ✅ Redução de Custos: A eliminação dos custos operacionais de um armazém redundante reduz as despesas de manutenção e operação.
 
-🔎 Conclusão
+**🔎 Conclusão**
 
 ➡️ A consolidação do armazém C no armazém B é uma estratégia eficaz para aumentar a eficiência operacional, reduzir custos e otimizar a gestão de inventário.
 
