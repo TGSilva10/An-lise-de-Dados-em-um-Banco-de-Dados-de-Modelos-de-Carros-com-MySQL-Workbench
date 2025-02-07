@@ -13,6 +13,7 @@ Objetivos do Projeto
 1. Explorar os produtos atualmente em stock.
 2. Determinar fatores importantes que possam influenciar a reorganização/redução do inventário.
 3. Fornecer insights analíticos e recomendações baseadas em dados.
+   
 Tarefa 1 - Importar a Base de Dados Classic Car Model
 
 Descarregar o ficheiro mintclassicsDB.sql, que contém o script para criar e povoar a base de dados relacional Mint Classics.
@@ -74,6 +75,7 @@ Para tomar uma decisão informada, foi necessário determinar quais tabelas eram
 2. Determinar a quantidade de produtos superlotados, bem abastecidos e subabastecidos em cada armazém.
    
 ✅ O armazém B apresenta o maior número de produtos superlotados, totalizando 29 itens.
+
 ✅ Os armazéns A e C apresentam o mesmo número de produtos superlotados, 19 cada.
 
 3. Analisar as linhas de produtos, identificando as que possuem os maiores percentuais de vendas.
@@ -85,18 +87,27 @@ Tarefa 4 - Recomendação para Consolidação de Armazéns
 Após uma análise detalhada, verificou-se que:
 
 O armazém B armazena carros clássicos, que apresentam o menor desempenho de vendas e o maior número de produtos superlotados.
+
 Apesar disso, o armazém B tem a maior capacidade de armazenamento, acomodando 38 produtos diferentes, com um stock total de 219.183 unidades.
+
 O armazém C, por outro lado, tem a menor capacidade de armazenamento entre os quatro armazéns e está a operar apenas a 50% da sua capacidade, o que indica desperdício significativo de espaço.
+
 📌 Recomendação:
+
 ➡️ Encerrar o armazém C e realocar o seu inventário para o armazém B.
+
 💡 Esta consolidação maximiza a utilização do espaço disponível no armazém B e torna a gestão de inventário mais eficiente, ao centralizar categorias de produtos semelhantes num único local.
 
 🔹 Benefícios da Consolidação:
 
 ✅ Otimização do Espaço: Ao transferir o stock do armazém C para o B, aproveitamos melhor a capacidade de armazenamento, reduzindo ineficiências operacionais.
+
 ✅ Operações Mais Eficientes: A consolidação simplifica a gestão do inventário, reduzindo a complexidade e melhorando a eficiência logística e o controlo de stock.
+
 ✅ Redução de Custos: A eliminação dos custos operacionais de um armazém redundante reduz as despesas de manutenção e operação.
 
 🔎 Conclusão
+
 ➡️ A consolidação do armazém C no armazém B é uma estratégia eficaz para aumentar a eficiência operacional, reduzir custos e otimizar a gestão de inventário.
+
 ➡️ Esta recomendação alinha-se com o objetivo da empresa de maximizar a eficácia operacional e otimizar os seus recursos para um crescimento sustentável. 🚀
